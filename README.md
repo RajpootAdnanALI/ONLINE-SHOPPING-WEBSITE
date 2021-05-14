@@ -1,0 +1,2 @@
+# ONLINE-SHOPPING-WEBSITE
+Online Shoes Shopping project has main two module :  Customer and Admin.  The customer is a user who want to buy products from our website. For buy shoes user need to register first and after he can buy product and finally make a online payment for confirm the order. After confirm order user gets shoes on his delivery address.  The Admin is a responsible person to run the website, or we can say the owner of a website. Admin can manage all products, customer detail and order detail. Admin can add, delete and update any information regarding to shoes.
